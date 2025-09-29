@@ -20,4 +20,4 @@ interface CitaService {
     void cargarCitas(String filename, Map<String, Paciente> pacientes,
                      Map<String, Medico> medicos, Map<String, Sala> salas)
             throws IOException, ClassNotFoundException, CitaException;
-} //
+}

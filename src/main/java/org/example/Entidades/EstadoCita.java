@@ -18,4 +18,3 @@ public enum EstadoCita {
         return descripcion;
     }
 }
-//

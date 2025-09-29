@@ -61,4 +61,4 @@ public class Paciente extends Persona implements Serializable {
         }
         return valor;
     }
-} //
+}

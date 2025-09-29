@@ -19,4 +19,4 @@ public enum TipoSangre {
     TipoSangre(String descripcion) {
         this.descripcion = descripcion;
     }
-} //
+}
