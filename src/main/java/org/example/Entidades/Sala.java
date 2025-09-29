@@ -48,3 +48,4 @@ public class Sala implements Serializable {
         return valor;
     }
 }
+ //

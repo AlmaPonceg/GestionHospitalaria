@@ -21,4 +21,4 @@ public enum EspecialidadMedica {
     public String getDescripcion() {
         return descripcion;
     }
-}
+} //

@@ -69,4 +69,4 @@ public class HistoriaClinica implements Serializable {
     public List<String> getAlergias() {
         return Collections.unmodifiableList(alergias);
     }
-}
+} //

@@ -43,4 +43,4 @@ public class Medico extends Persona implements Serializable {
     public List<Cita> getCitas() {
         return Collections.unmodifiableList(new ArrayList<>(citas));
     }
-}
+} //
